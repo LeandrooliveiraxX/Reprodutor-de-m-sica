@@ -1,0 +1,7 @@
+{
+  "name": "VibeStream Pro",
+  "description": "Reprodutor de música moderno e elegante com interface em Português.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
